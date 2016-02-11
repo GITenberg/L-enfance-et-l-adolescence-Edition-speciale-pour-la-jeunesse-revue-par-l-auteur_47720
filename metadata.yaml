@@ -1,0 +1,38 @@
+_repo: L-enfance-et-l-adolescence-Edition-speciale-pour-la-jeunesse-revue-par-l-auteur_47720
+contributor:
+  translator:
+    agent_name: Delines, Michel
+    aliases:
+    - Delines, M. (Michel)
+    - Ashkinazi, Mikhail Osipovich
+    birthdate: 1851
+    deathdate: 1914
+    gutenberg_agent_id: '37809'
+    url: http://www.gutenberg.org/2009/agents/37809
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2014-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47720'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'L''enfance et l''adolescence
+
+  Édition spéciale pour la jeunesse revue par l''auteur'
+url: http://www.gutenberg.org/ebooks/47720
