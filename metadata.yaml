@@ -38,6 +38,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'L''enfance et l''adolescence
 
   Édition spéciale pour la jeunesse revue par l''auteur'
